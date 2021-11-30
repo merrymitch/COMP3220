@@ -1,0 +1,33 @@
+characters x
+whitespace  
+= =
+whitespace  
+digit 3
+whitespace 
+characters y
+whitespace  
+= =
+whitespace  
+digit 5
+whitespace 
+characters z
+whitespace  
+= =
+whitespace  
+( (
+characters x
+whitespace  
++ +
+whitespace  
+characters y
+) )
+whitespace  
+/ /
+whitespace  
+digit 3
+whitespace 
+print print
+whitespace  
+characters z
+whitespace 
+eof eof
